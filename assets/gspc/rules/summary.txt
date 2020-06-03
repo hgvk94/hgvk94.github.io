@@ -1,0 +1,6 @@
+solver                         |total |sat |unsat |uniq_sat |uniq_unsat
+gspc                           |558   |410 |148   |1        |0         
+gspc-noconcretize              |564   |410 |154   |2        |0         
+gspc-noconjecture              |557   |405 |152   |1        |0         
+gspc-noconcretize-noconjecture |550   |398 |152   |0        |0         
+spc                            |502   |349 |153   |6        |1         

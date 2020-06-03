@@ -1,0 +1,4 @@
+solver  |total |sat |unsat |uniq_sat |uniq_unsat
+gspc-bw |272   |155 |117   |1        |0         
+gspc-sc |271   |154 |117   |1        |0         
+spc-bw  |266   |149 |117   |0        |0         

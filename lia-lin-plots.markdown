@@ -3,11 +3,9 @@ layout: page
 title:  LIA-LIN-plots
 permalink: /gspacer/lia-lin/plots.html
 ---
-Comparing running times
-![GSpacer-bw vs GSpacer-sc](/assets/gspc/LIA-LIN/plots/gspc-bwgspc-sctime.eps)
-![GSpacer-bw vs Spacer-bw](/assets/gspc/LIA-LIN/plots/gspc-bwspc-bwtime.pdf)
-<object data="/assets/gspc/LIA-LIN/plots/gspc-bwgspc-sctime.pdf" width="700px" height="700px">
-    <embed src="/assets/gspc/LIA-LIN/plots/gspc-bwgspc-sctime.pdf">
-        <p>GSpacer-bw vs GSpacer-sc</p>
-    </embed>
-</object>
+## Comparing running times
+![GSpacer-bw vs GSpacer-sc](/assets/gspc/LIA-LIN/plots/gspc-bwgspc-sctime.svg) 
+![GSpacer-bw vs Spacer-bw](/assets/gspc/LIA-LIN/plots/gspc-bwspc-bwtime.svg)
+## Comparing depth of convergence
+![GSpacer-bw vs GSpacer-sc](/assets/gspc/LIA-LIN/plots/gspc-bwgspc-scSPACER_max_depth.svg)
+![GSpacer-bw vs Spacer-bw](/assets/gspc/LIA-LIN/plots/gspc-bwspc-bwSPACER_max_depth.svg)
