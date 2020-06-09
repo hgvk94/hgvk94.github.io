@@ -6,7 +6,7 @@ sidebar_link : true
 permalink: /gspacer/
 ---
 ## Updates
-- We won three of the four tracks in [CHC-COMP-2020](https://chc-comp.github.io/2020/)!!!!
+- We won three of the four tracks in [CHC-COMP-20](https://chc-comp.github.io/#Rarts)!!!!
 
 - The paper can be found on [arxiv](https://arxiv.org/abs/2005.13301)
 
