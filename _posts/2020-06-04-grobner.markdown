@@ -1,6 +1,0 @@
----
-layout: post
-title:  Grobner basis
-date:   2020-06-04 00:17:06 -0400
----
-Implemented the Buchberger algorithm for computing Grobner basis as part of a course on [Symbolic computation](https://www.student.cs.uwaterloo.ca/~cs487/index.shtml). Link to [writeup](/assets/buchberger/buchberger-writeup.pdf)[Maple code](/assets/buchberger/buchberger-code.tar.gz)
