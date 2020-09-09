@@ -1,7 +1,7 @@
 ---
 layout: page
 pin: true
-title:  GSpacerBV
+title:  Word Level Property Directed Reachability
 date:   2020-05-14 00:17:06 -0400
 permalink: /gspacerbv/
 visible: 1
