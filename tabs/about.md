@@ -16,4 +16,4 @@ Clauses, a fragment of First Order Logic. You can find more about my
 work in my [resume]({%link /assets/resume.pdf%})
 
 
-Read [our latest paper on spec sms]({%link /assets/specsms.pdf})
+Read [our latest paper on spec sms]({%link /assets/specsms.pdf%})
