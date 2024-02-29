@@ -6,7 +6,7 @@ date:   2024-02-29 00:17:06 -0400
 permalink: /specsms/
 visible: 1
 ---
-We are working on a long term project of rewriting Spacer to have the theory of EUF at its core. The architecture is going to be similiar to an SMT solver: one core model checker for EUF at the centre and theory solvers for MBP, interpolants, inductive generalization, and global guidance used on demand. Our work on lightweight quantifier elimination using e-graphs([link] (https://link.springer.com/chapter/10.1007/978-3-031-37703-7_4)) is a step in this direction.
+We are working on a long term project of rewriting Spacer to have the theory of EUF at its core. The architecture is going to be similiar to an SMT solver: one core model checker for EUF at the centre and theory solvers for MBP, interpolants, inductive generalization, and global guidance used on demand. Our work on lightweight quantifier elimination using e-graphs([link](https://link.springer.com/chapter/10.1007/978-3-031-37703-7_4)) is a step in this direction.
 
 Another important direction is to come up with a model checking algorithm for EUF. Two critical components for the task are computing predecessors and generalizing lemmas. While we can use [covers](https://link.springer.com/chapter/10.1007/978-3-540-78739-6_16) for computing predecessor, we have to assume that we won't be able to do it precisely when combined with theories. Therefore, the model checker will have to work with abstract predecessors. 
 
